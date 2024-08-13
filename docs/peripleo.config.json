@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "Peripleo2",
+      "name": "data5",
       "format": "LINKED_PLACES",
-      "src": "./data/Peripleo2.json"
+      "src": "./data/data5.json"
     }
   ],
   "facets": [
