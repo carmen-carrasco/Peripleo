@@ -5,7 +5,7 @@
     {
       "name": "SF_XIX",
       "format": "LINKED_PLACES",
-      "src": "./data/dataXIX.lp.json"
+      "src": "./data/dataXIX2.json"
     }
   ],
   "facets": [
