@@ -3,7 +3,7 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "data6",
+      "name": "data6x",
       "format": "LINKED_PLACES",
       "src": "./data/data6.json"
     }
