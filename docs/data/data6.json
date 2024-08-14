@@ -5842,4 +5842,5 @@
                 "identifier": "http://www.geonames.org/350564/"
             }
         ]
-    }
+    },"indexing":
+{"@type":"Dataset","name":"Places of 19th century speculative fiction","description":"dataset of speculative fiction XIX","creator":{"@type":"Person","name":"Carmen Carrasco"},"license":"https://creativecommons.org/licenses/by/4.0/","identifier":"https://w3id.org/dataset_xix_2.csv","temporalCoverage":"1066/2022","spatialCoverage":{"@type":"GeoShape","box":"0.580101 0.00149 60.355 9.78667","geo":{"@type":"GeoShape","box":"2.90055 3.70035 40.38866 152.04346"}}}}
