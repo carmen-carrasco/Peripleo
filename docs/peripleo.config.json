@@ -3,9 +3,9 @@
   "map_style": "./map-style-OSM.json",
   "data": [
     {
-      "name": "data1708",
+      "name": "data17082",
       "format": "LINKED_PLACES",
-      "src": "./data/data1708.json"
+      "src": "./data/data17082.json"
     }
   ],
   "facets": [
