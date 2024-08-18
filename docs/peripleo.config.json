@@ -9,7 +9,8 @@
     }
   ],
   "facets": [
-    "type"
+    { "name": "Text's title", "path": ["properties", "texts_title"] },
+    { "name": "GeoNames Feature", "path": ["properties", "fclasses", "type"] }
   ],
   "link_icons": [
     { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
